@@ -2,7 +2,7 @@
 title: Reducing the CNOT Count for Clifford+T Circuits on NISQ Architectures
 authors:
 - Vlad Gheorghiu
-- Jiaxin Huang
+- admin
 - Sarah Meng Li
 - Michele Mosca
 - Priyanka Mukhopadhyay

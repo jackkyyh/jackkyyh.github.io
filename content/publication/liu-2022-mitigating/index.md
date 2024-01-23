@@ -3,7 +3,7 @@ title: Mitigating barren plateaus of variational quantum eigensolvers
 authors:
 - Xia Liu
 - Geng Liu
-- Jiaxin Huang
+- admin
 - Hao-Kai Zhang
 - Xin Wang
 date: '2022-01-01'
